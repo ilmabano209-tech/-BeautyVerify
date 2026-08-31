@@ -1,0 +1,11 @@
+Product_ID,Brand_Name,Product_Name,Category,Barcode_Number,Batch_Number,Manufacturing_Date,Expiry_Date,Country_Of_Origin,Manufacturer,MRP,Status,Trust_Score,Registry_Status
+101,Sugar Cosmetics,Velvet Matte Lipstick,Lipstick,8904320509653,SG-LP-2401,15-01-2026,14-01-2028,India,Sugar Cosmetics Pvt Ltd,599,Authentic,98,Verified
+102,Sugar Cosmetics,Matte Liquid Lipstick,Lipstick,8904320507222,SG-ML-2402,16-01-2026,01-02-2028,India,Sugar Cosmetics Pvt Ltd,699,Authentic,97,Verified
+103,Lakme,9to5 Primer + Matte Foundation,Foundation,8901030753456,LK-FD-2403,17-01-2026,20-01-2028,India,Hindustan Unilever Ltd.,699,Authentic,99,Verified
+104,Lakme,Absolute Perfect Radiance Face Wash,Face Wash,8901030364027,LK-FW-2404,18-01-2026,01-03-2028,India,Hindustan Unilever Ltd.,349,Authentic,98,Verified
+105,Mamaearth,Vitamin C Face Wash,Face Wash,8906087772507,ME-FW-2405,19-01-2026,10-02-2028,India,Mamaearth,299,Authentic,96,Verified
+106,Mamaearth,Ubtan Face Wash,Face Wash,8906087776178,ME-UF-2406,20-01-2026,05-01-2028,India,Mamaearth,349,Authentic,95,Verified
+107,Nivea India,Soft Moisturizing Cream,Cream,4005808810238,NV-SC-2407,21-01-2026,18-01-2028,Germany,Beiersdorf,225,Authentic,99,Verified
+108,Ponds India,Super Light Gel Moisturizer,Moisturizer,8901030713580,PD-GM-2408,22-01-2026,12-02-2028,India,HUL,399,Authentic,97,Verified
+109,Counterfeit Brand,Counterfeit Glow Cream,Cream,1234567890123,FK-0001,Unknown,Unknown,Unknown,Unknown,0,Counterfeit,8,Blacklisted
+110,Expired Brand,Expired Skin Serum,Serum,9876543210987,EX-2401,01-05-2025,01-05-2025,India,Unknown,799,Expired,15,Expired Registry
