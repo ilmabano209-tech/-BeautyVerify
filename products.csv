@@ -7,5 +7,5 @@ Product_ID,Brand_Name,Product_Name,Category,Barcode_Number,Batch_Number,Manufact
 106,Mamaearth,Ubtan Face Wash,Face Wash,8906087776178,ME-UF-2406,20-01-2026,05-01-2028,India,Mamaearth,349,Authentic,95,Verified
 107,Nivea India,Soft Moisturizing Cream,Cream,4005808810238,NV-SC-2407,21-01-2026,18-01-2028,Germany,Beiersdorf,225,Authentic,99,Verified
 108,Ponds India,Super Light Gel Moisturizer,Moisturizer,8901030713580,PD-GM-2408,22-01-2026,12-02-2028,India,HUL,399,Authentic,97,Verified
-109,Counterfeit Brand,Counterfeit Glow Cream,Cream,1234567890123,FK-0001,Unknown,Unknown,Unknown,Unknown,0,Counterfeit,8,Blacklisted
+109,Counterfeit Brand,Counterfeit Glow Cream,Cream,1234567890123,FK-0001,20-09-2026,Unknown,Unknown,Unknown
 110,Expired Brand,Expired Skin Serum,Serum,9876543210987,EX-2401,01-05-2025,01-05-2025,India,Unknown,799,Expired,15,Expired Registry
