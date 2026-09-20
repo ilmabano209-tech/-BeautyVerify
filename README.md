@@ -4,7 +4,7 @@ An enterprise-grade B2B AI Authenticity Platform engineered using Computer Visio
 
 ## 🚀 Live Demo & Documentation
 - **Live Interactive Prototype:** https://pure-beauty-guard.base44.app
-- **Official Deployment Target:** Submitted successfully to the global 'Hack for Humanity | Summer 2026' Hackathon.
+- Submitted successfully to the DECODEP HACKDAY 1.0 Hackathon.
 
 ## 🛠️ Technical Architecture & Features
 - **Continuous Camera Scanner:** Powered by `html5-qrcode` to dynamically capture 13-digit retail barcodes, QR codes, and EAN-13 tokens with automated framing boxes.
