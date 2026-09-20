@@ -1,3 +1,4 @@
+// Updated for DECODEP HACKDAY 1.0 - 20 September 2026
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import {
   Outlet,
