@@ -1,4 +1,3 @@
-// Updated for DECODEP HACKDAY 1.0 - 20 September 2026
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
 import { Shell, PageHeader, Panel, StatCard, StatusPill, ScoreMeter } from "@/components/Shell";
