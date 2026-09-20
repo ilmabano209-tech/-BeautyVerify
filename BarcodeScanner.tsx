@@ -1,4 +1,3 @@
-// Updated for DECODEP HACKDAY 1.0 - 20 September 2026
 import { useEffect, useId, useRef, useState } from "react";
 import { CameraOff, Loader2 } from "lucide-react";
 
