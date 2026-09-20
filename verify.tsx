@@ -1,4 +1,4 @@
-1 // Updated for DECODEP HACKDAY 1.0 - 20 September 2026
+// Updated for DECODEP HACKDAY 1.0 - 20 September 2026
 2 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useCallback, useRef, useState } from "react";
 import { Shell, PageHeader, Panel, ScoreMeter, StatusPill } from "@/components/Shell";
